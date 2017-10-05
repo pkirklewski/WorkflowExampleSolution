@@ -1,0 +1,4 @@
+obj\x86\Debug\_WorkflowExample.g.cs
+obj\x86\Debug\Workflow1.g.cs
+obj\x86\Debug\WorkflowExample_Workflow1_BeforeInitializeComponentHelper.cs
+C:\Users\LT5244\source\repos\WorkflowExampleSolution\WorkflowExample\obj\x86\Debug\WorkflowExample_Workflow1_CompiledExpressionRoot.cs
